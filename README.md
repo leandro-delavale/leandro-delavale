@@ -9,7 +9,7 @@
 
 
 ## 🌐 Social:
-[![LinkedIn](https://www.linkedin.com/in/leandro-delavale-7b5229402/) 
+[![LinkedIn!](https://www.linkedin.com/in/leandro-delavale-7b5229402/) 
 
 # 💻 Tecnologias:
 <div align="left">
