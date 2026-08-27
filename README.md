@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Leandro, resido em São Paulo e estou cursando Senai</p>
+<p align="center">Meu nome é Leandro, resido em São Paulo e estou cursando Senai</p>
 
 # 🧑‍💻 Sobre mim:
 ⚽ Jogo futebol, faço academia...<br>✈️ Gosto de viajar<br>💻 Amo jogar<br>🥁 Toco bateria<br>
