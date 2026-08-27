@@ -5,7 +5,7 @@
 <p align="center">Meu nome é Leandro, resido em São Paulo e estou cursando Senai</p>
 
 # 🧑‍💻 Sobre mim:
-⚽ Jogo futebol, faço academia...<br>✈️ Gosto de viajar<br>💻 Amo jogar<br>🥁 Toco bateria<br>
+<p align="left">⚽ Eu jogo bola, faço academia e pratico muito esportes<br>✈️ Amo viajar<br>💻 Gosto de jogar video-game📚 Estudo análise e desenvolvimento de sistemas<br>🎯 Formado no curso técnico de TI no ensino médio<br</p>
 
 
 ## 🌐 Social:
