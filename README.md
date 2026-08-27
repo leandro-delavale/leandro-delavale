@@ -1,3 +1,9 @@
+<h1 align="center">Seja bem-vindo(a) ao meu perfil</h1>
+
+###
+
+<p align="left">Meu nome é Leandro, resido em São Paulo e estou cursando Senai</p>
+
 # 🧑‍💻 Sobre mim:
 ⚽ Jogo futebol, faço academia...<br>✈️ Gosto de viajar<br>💻 Amo jogar<br>🥁 Toco bateria<br>
 
