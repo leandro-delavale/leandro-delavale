@@ -4,7 +4,8 @@
 
 <p align="center">Meu nome é Leandro, resido em São Paulo e estou cursando SENAI</p>
 
-# 🧑‍💻 Sobre mim:
+<h2> 🧑‍💻 Sobre mim:
+</h2>
 
 <ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</li>
