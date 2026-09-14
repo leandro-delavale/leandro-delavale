@@ -5,7 +5,7 @@
 <p align="center">Meu nome é Leandro, resido em São Paulo e estou cursando SENAI</p>
 
 # 🧑‍💻 Sobre mim:
-<p align="left"><li> 🎓 Estudo análise e desenvolvimento de sistemas.<br><li 🚀 Sempre buscando novos desafios.<br><li> 📚 Formado em TI no curso técnico do ensino médio.<br> </p>
+<p align="left"><li> 🎓 Estudo análise e desenvolvimento de sistemas.<br><li> 🚀 Sempre buscando novos desafios.<br><li> 📚 Formado em TI no curso técnico do ensino médio.<br> </p>
 
 
 ## 🌐 Social:
