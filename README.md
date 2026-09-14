@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Leandro, resido em São Paulo e estou cursando SENAI</p>
+<p align="center">OLá, meu nome é Leandro, estudante de Análise e Desenvolvimento de Sistemas</p>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
