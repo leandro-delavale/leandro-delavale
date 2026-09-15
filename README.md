@@ -6,10 +6,6 @@
   <strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</strong>
 </p>
 
-<p align="center">
-  <img src="./assets/wink.gif" width="30px">
-</p>
-
 <h2>👨‍💻 Sobre mim:</h2>
 
 <ul align="left">
