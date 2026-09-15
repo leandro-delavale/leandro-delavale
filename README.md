@@ -38,4 +38,3 @@
 ###
 
 <div align="center"> <table border="2" cellpadding="8" cellspacing="0"> <tr> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"> </td> </tr> </table> </div>
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" </div>
