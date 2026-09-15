@@ -37,4 +37,4 @@
 
 ###
 
-<div align="center"> <table border="2" cellpadding="8" cellspacing="0"> <tr> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"> </td> </tr> </table> </div>
+<div align="center"> <table cellpadding="8" cellspacing="0" bgcolor="#58A6FF"> <tr> <td> <table cellpadding="6" cellspacing="0" bgcolor="#0D1117"> <tr> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> </td> </tr> </table> </td> </tr> </table> </div>
