@@ -37,4 +37,25 @@
 
 ###
 
-<div align="center"> <table> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"> </table> </div>
+<div align="center">
+
+<table>
+  <tr>
+    <td bgcolor="#58a6ff" style="padding: 4px; border-radius: 15px;">
+      <table>
+        <tr>
+          <td bgcolor="#0d1117" style="padding: 6px; border-radius: 12px;">
+
+            <img 
+              src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+              width="400px"
+            >
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
