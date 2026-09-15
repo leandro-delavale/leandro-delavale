@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKTDn976M5J1i8/giphy.gif" width="30px">
+  <img src="./assets/wink.gif" width="30px">
 </p>
-
 
 <h2>👨‍💻 Sobre mim:</h2>
 
