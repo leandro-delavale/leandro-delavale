@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> <strong> Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo </strong> </p>
-<p align="center"> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px"> </p>
+<p align="center"> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px"> </p>
 
 
 
