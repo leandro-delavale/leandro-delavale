@@ -37,4 +37,4 @@
 
 ###
 
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" style="border: 3px solid #58a6ff; border-radius: 15px;" > </div>
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" </div>
