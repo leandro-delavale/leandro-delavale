@@ -3,7 +3,6 @@
 <br>
 
 <p align="center"> <strong> Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo </strong> </p>
-<p align="center"> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px"> </p>
 
 <h2> 👨‍💻 Sobre mim: </h2>
 
@@ -38,4 +37,4 @@
 
 ###
 
-<div align="center">  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"> </div>
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" style="border: 3px solid #58a6ff; border-radius: 15px;" > </div>
