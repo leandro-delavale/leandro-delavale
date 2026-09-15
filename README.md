@@ -6,7 +6,7 @@
 <p align="center"> 😉 </p>
 
 <h2>👨‍💻 Sobre mim:</h2>
-
+<br>
 <ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</li>
   <li>💻 Tenho grande foco e interesse em desenvolvimento de software e inovação tecnológica.</li>
