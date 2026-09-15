@@ -3,7 +3,7 @@
 ###
 
 <p align="center"> <strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</p></strong>
-![Piscando](https://media.giphy.com/media/3o7TKRkkgOK7gW0G4w/giphy.gif)
+<img src="https://media.giphy.com/media/3o7TKTDn976M5J1i8/giphy.gif" width="30px">
 
   
 <h2>👨‍💻 Sobre mim:</h2>
