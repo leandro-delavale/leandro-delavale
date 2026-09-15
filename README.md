@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"><strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</strong></p>
-<p align="center"><img src="[https://giphy.com/gifs/nerd-actually-um-8OYnFrez06yQt9zJFW](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW84ZnM3c2RsejlucGR2a3hnY3FrajlsbnZ2bXdoZ2ZqbXRrd3AzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OYnFrez06yQt9zJFW/giphy.gif)" width="30px"></p>
+<p align="center"><img src="https://tenor.com/pt-BR/view/hehehe-gif-1117707342301226960" width="30px"></p>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
