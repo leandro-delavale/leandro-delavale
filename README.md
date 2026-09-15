@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</strong></p>
 <p align="center"><img src="https://tenor.com/pt-BR/view/hehehe-gif-1117707342301226960" width="30px"></p>
-
+<div class="tenor-gif-embed" data-postid="1117707342301226960" data-share-method="host" data-aspect-ratio="1.22059" data-width="100%"><a href="https://tenor.com/view/hehehe-gif-1117707342301226960">Hehehe Meme</a>from <a href="https://tenor.com/search/hehehe-memes">Hehehe Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h2>👨‍💻 Sobre mim:</h2>
 
 <ul align="left">
