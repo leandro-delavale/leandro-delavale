@@ -1,7 +1,4 @@
-<h1 align="center"> Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <div align="center">
-  <img src="https://giphy.com" width="300" alt="Gato programando">
-</div>
- </h1>
+<h1 align="center"> Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </div> </h1>
 
 <br>
 
