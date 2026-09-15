@@ -9,14 +9,12 @@
 
 <h2> 👨‍💻 Sobre mim: </h2>
 
-<ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</li>
   <li>💻 Tenho grande foco e interesse em desenvolvimento de software e inovação tecnológica.</li>
   <li>🚀 Sempre buscando aprender novas tecnologias e enfrentar novos desafios.</li>
   <li>📚 Formado em Técnico em Informática pelo Ensino Médio.</li>
   <li>🧠 Atualmente aprimorando meus conhecimentos em programação.</li>
   <li>🎯 Buscando evoluir constantemente e construir projetos cada vez melhores.</li>
-</ul>
 
 ## 🌐 Social:
 <a href="https://www.linkedin.com/in/leandrodelavale/">
@@ -38,4 +36,6 @@
   <img width="12" />
 </div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+###
+
+<align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
