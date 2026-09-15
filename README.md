@@ -1,5 +1,7 @@
 <h1 align="center"> Seja bem-vindo(a) ao meu perfil! 👋 <br></h1>
 
+<br>
+
 <p align="center"><strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</strong></p>
 
 <h2>👨‍💻 Sobre mim:</h2>
