@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> <strong>Olá, meu nome é Leandro, estudante de Análise e Desenvolvimento de Sistemas</p></strong>
+<p align="center"> <strong>Olá, meu nome é Leandro, tenho 18 anos e resido em são paulo</p></strong>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
