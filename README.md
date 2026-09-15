@@ -5,7 +5,7 @@
 <p align="center"> <strong> Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo </strong> </p>
 <p align="center"> 😉 </p>
 
-<h2> <margin-top></margin-top>👨‍💻 Sobre mim:</h2>
+<h2> 👨‍💻 Sobre mim: </h2>
 
 <ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</li>
