@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> <strong> Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo </strong> </p>
-<p align="center"> <img src="<img src="https://gstatic.com" alt="😉" width="35">
+<p align="center"> 😉
  width"="30px"></p>
 
 <h2>👨‍💻 Sobre mim:</h2>
