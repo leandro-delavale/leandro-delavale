@@ -37,26 +37,4 @@
 
 ###
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<pre>
-┌──────────────────────────────────────────────────┐
-│ ● ● ●    ~/leandro/projects/programming          │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│                 👨‍💻 CODING...                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-
-</div>
+<div align="center"> <table> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"> </table> </div>
