@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> <strong>Olá, meu nome é Leandro, tenho 18 anos e resido em são paulo</p></strong>
+<p align="center"> <strong>Olá, meu nome é Leandro, tenho 18 anos e resido em São Paulo</p></strong>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
