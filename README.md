@@ -15,13 +15,13 @@
   <li>🎯 Buscando evoluir constantemente e construir projetos cada vez melhores.</li>
 </ul>
 
-# 🌐 Social:
+## 🌐 Social:
 <a href="https://www.linkedin.com/in/leandrodelavale/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 </a>
 
-## 💻 Tecnologias:
+# 💻 Tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
