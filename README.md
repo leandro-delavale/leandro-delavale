@@ -2,10 +2,15 @@
 
 ###
 
-<p align="center"> <strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</p></strong>
-<p<img src="https://media.giphy.com/media/3o7TKTDn976M5J1i8/giphy.gif" width="30px"></p>
+<p align="center">
+  <strong>Olá, meu nome é Leandro, tenho 18 anos e resido na região de São Paulo</strong>
+</p>
 
-  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976M5J1i8/giphy.gif" width="30px">
+</p>
+
+
 <h2>👨‍💻 Sobre mim:</h2>
 
 <ul align="left">
