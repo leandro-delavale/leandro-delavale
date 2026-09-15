@@ -8,7 +8,7 @@
 
 <ul align="left">
   <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</li>
-  <li>💻 Tenho interesse em desenvolvimento de software e tecnologia.</li>
+  <li>💻 Tenho grande foco e interesse em inovação tecnológica e criação de softwares.</li>
   <li>🚀 Sempre buscando aprender novas tecnologias e enfrentar novos desafios.</li>
   <li>📚 Formado em Técnico em Informática pelo Ensino Médio.</li>
   <li>🧠 Atualmente aprimorando meus conhecimentos em programação.</li>
